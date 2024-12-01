@@ -1,5 +1,7 @@
 body {
+    color: white;
     text-align: center;
+    background-color: black;
 }
 
 .boxes {
@@ -29,4 +31,12 @@ body {
 
 .yellow {
     background-color: yellow;
+}
+
+.gameFlash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: green;
 }
